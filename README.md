@@ -7,8 +7,6 @@ Momen Alhejoj
 from wordleUtils import getRed, getGreen, getGray, getYellow
 import random
 
-
-
 option_to_play = ""
 
 def  getColorTextResult(secret_word, user_guess):
